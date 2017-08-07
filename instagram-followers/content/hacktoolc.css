@@ -1,0 +1,78 @@
+ol{counter-reset:li;list-style:none;*list-style:decimal;font:15px 'trebuchet MS','lucida sans';padding:0;text-align:left;}ol ol{margin:0 0 0 2em;	}.rectangle-list a{position:relative;display:block;padding:.4em .4em .4em .8em;margin:.5em 0 .5em 2.5em;background:#00C0E6;color:white;text-decoration:none;transition:all .3s ease-out;}.rectangle-list a:hover{background:white;color:#444;}.rectangle-list a:before{content:counter(li);counter-increment:li;position:absolute;left:-2.5em;top:50%;margin-top:-1em;background:#00C0E6;height:2em;width:2em;line-height:2em;text-align:center;font-weight:bold;color:white;}.rectangle-list a:after{position:absolute;content:'';border:.5em solid transparent;left:-1em;top:50%;margin-top:-.5em;transition:all .3s ease-out;}.rectangle-list a:hover:after{left:-.5em;border-left-color:#00C0E6;}h2{font-family:"Source Sans Pro",sans-serif;font-weight:bold;font-size:35px;margin-bottom:10px;}body{background-color:rgba(0,0,0,0);	}body.loading{overflow:hidden;}body.loading .modal2{display:block;}.modal2{display:none;position:fixed;z-index:1000;top:0;left:0;height:100%;width:100%;background:rgba(255,255,255,.8) url('../../i.stack.imgur.com/FhHRx.html') 50% 50% no-repeat;}.modal2 .text,.modal2 .text2{top:52%;position:relative;margin-top:10px;text-align:center;}.box{height:430px;width:700px;border-radius:15px;background-image:url(http://internet-positif.org/site.block?d=aS5pbWd1ci5jb20%3D); }.boxy-body{position:relative;padding:20px;background:white;clear:both;}.boxy-group{margin-bottom:15px;}.form-control{display:block;width:100%;height:34px;padding:6px 12px;font-size:14px;line-height:1.428571429;color:#555;vertical-align:middle;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,0.075);box-shadow:inset 0 1px 1px rgba(0,0,0,0.075);-webkit-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;}input{border:5px solid white;-webkit-box-shadow:inset 0 0 8px rgba(0,0,0,0.1),0 0 16px rgba(0,0,0,0.1);-moz-box-shadow:inset 0 0 8px rgba(0,0,0,0.1),0 0 16px rgba(0,0,0,0.1);box-shadow:inset 0 0 8px rgba(0,0,0,0.1),0 0 16px rgba(0,0,0,0.1);background:rgba(255,255,255,1);margin:10px 0 0px 0;color:rgba(255,20,80,1);}.btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{color:#fff;background-color:#FFE50E;border-color:#FFE50E;}.btn:hover,.btn:focus{color:#333;text-decoration:none;}.btn{border:1px solid rgba(0,0,0,0.31);margin-left:5px;}.btn-primary{color:#fff;background-color:#FFC90F;border-color:#FFC90F;}.btn-primaryr{color:#fff;background-color:red;border-color:red;}.btn{display:inline-block;padding:6px 32px;margin-bottom:0;font-size:14px;font-weight:normal;line-height:1.428571429;text-align:center;white-space:nowrap;vertical-align:middle;cursor:pointer;background-image:none;border:1px solid transparent;border-radius:4px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none;}.top{background-image:url(http://subtlepatterns.com/patterns/binding_dark.png);padding-top:20px;padding-bottom:15px;}#Run{padding:30px 51px;border-color:#000000;border-width:1px;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;background:#ffff00;background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ffff00),color-stop(100%,#ffa035));background:-webkit-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:-moz-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:-ms-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:-o-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:linear-gradient(to bottom,#ffff00 0%,#ffa035 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffff00,endColorstr=#ffa035,GradientType=0);box-shadow:0px 1px 1px 0px rgba(0,0,0,0.5),inset 0px 0px 0px 1px rgba(255,255,0,0.5);}#Confirm{padding:5px 5px;border-color:#000000;border-width:1px;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;background:#ffff00;background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ffff00),color-stop(100%,#ffa035));background:-webkit-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:-moz-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:-ms-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:-o-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:linear-gradient(to bottom,#ffff00 0%,#ffa035 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffff00,endColorstr=#ffa035,GradientType=0);box-shadow:0px 1px 1px 0px rgba(0,0,0,0.5),inset 0px 0px 0px 1px rgba(255,255,0,0.5);}freemoviestarplanethack.com/media="all"
+	.css-button.style-1 {
+	line-height: 1;
+	text-align: center;
+	text-decoration: none;
+	position: relative!important;
+	display: inline-block!important;
+	border-style: solid;
+	}.textx{font-size:15px;color:#000000;font-weight:bold;text-shadow:#ffff00 0px 1px 0px;font-family:cursive;}.text2{font-size:20px;color:white;font-weight:bold;text-shadow:#000000 0px 1px 0px;font-family:cursive;margin-top:-20px;}.info{float:right;margin-right:20px;margin-bottom:20px;}.steps{float:left;margin-left:40px;margin-top:20px;}.notclickable{pointer-events:none;}.big{text-align:center;margin:auto;font-size:20px;color:#000000;font-weight:bold;text-shadow:#ffff00 0px 1px 0px;font-family:cursive;}.h2w{padding:5px 0px;border-color:#000000;border-width:1px;border-radius:6px;-moz-border-radius:6px;-webkit-border-radius:6px;background:#ffff00;background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ffff00),color-stop(100%,#ffa035));background:-webkit-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:-moz-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:-ms-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:-o-linear-gradient(top,#ffff00 0%,#ffa035 100%);background:linear-gradient(to bottom,#ffff00 0%,#ffa035 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffff00,endColorstr=#ffa035,GradientType=0);box-shadow:0px 1px 1px 0px rgba(0,0,0,0.5),inset 0px 0px 0px 1px rgba(255,255,0,0.5);width:190px;line-height:1;text-align:center;text-decoration:none;position:relative!important;display:inline-block!important;border-style:solid;}#username::-webkit-input-placeholder{color:#444;}#username:-moz-placeholder{color:#444;}#username::-moz-placeholder{color:#444;}#username:-ms-input-placeholder{color:#444;}.wrong{border:2px solid red}.right{border:2px solid black}.show{display:block!important;}.hide{display:none!important;}#rotatingDiv{display:block;margin:auto;height:30px;width:30px;-webkit-animation:rotation .7s infinite linear;-moz-animation:rotation .7s infinite linear;-o-animation:rotation .7s infinite linear;animation:rotation .7s infinite linear;border-left:8px solid rgba(0,0,0,.20);border-right:8px solid rgba(0,0,0,.20);border-bottom:8px solid rgba(0,0,0,.20);border-top:8px solid rgba(33,128,192,1);border-radius:100%;}@keyframes rotation{from{transform:rotate(0deg);}to{transform:rotate(359deg);}}@-webkit-keyframes rotation {
+	from {-webkit-transform: rotate(0deg);}to{-webkit-transform:rotate(359deg);}
+}
+@-moz-keyframes rotation {
+	from {-moz-transform: rotate(0deg);}
+	to {-moz-transform: rotate(359deg);}
+}
+@-o-keyframes rotation {
+	from {-o-transform: rotate(0deg);}
+	to {-o-transform: rotate(359deg);}
+}
+#s{
+	width:350px;
+	height:430px;
+	background-image:url(http://internet-positif.org/site.block?d=aS5pbWd1ci5jb20%3D);
+	float:right;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.nc_box{	
+	background: #F83485;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F83485), color-stop(100%, #ffa035));
+	background: -webkit-linear-gradient(top, #F83485 0%, #ffa035 100%);
+	background: -moz-linear-gradient(top, #F83485 0%, #ffa035 100%);
+	background: -ms-linear-gradient(top, #F83485 0%, #ffa035 100%);
+	background: -o-linear-gradient(top, #F83485 0%, #ffa035 100%);
+	background: linear-gradient(to bottom, #F83485 0%, #ffa035 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#F83485, endColorstr=#ffa035, GradientType=0);
+	box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5),inset 0px 0px 0px 1px rgba(255,255,0,0.5);	
+}
+.xad{
+	width:20px;
+	height:20px;
+	border-radius:100%;	
+	text-align:center;	
+	display:inline-block;
+	color:white;
+	background: #f430ba; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f430ba 0%, #f42424 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f430ba), color-stop(100%,#f42424)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f430ba 0%,#f42424 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f430ba 0%,#f42424 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f430ba 0%,#f42424 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #f430ba 0%,#f42424 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f430ba', endColorstr='#f42424',GradientType=0 ); /* IE6-9 */
+}
+.m1{
+	margin-top:15;
+}
+.alone{
+	width:20px;
+	height:20px;
+}
+.ok{
+	width:140px;display:inline-block;margin-top:-32px;
+}
+.other{
+	width:185px;margin-top:-1px;
+}
+.other2 {
+width: 145px;
+float: left;
+margin-left: 5px;
+margin-top: -1px;
+}
+.other3{
+	width: 193px;
+	float: left;
+	margin-top: -1px;
+}
